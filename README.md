@@ -19,3 +19,7 @@ Páginas independientes con títulos, descripciones, canonical y marcado WebAppl
 ## Mantenimiento
 
 Comunica errores en las incidencias del repositorio sin incluir datos personales. No hay licencia abierta concedida por defecto.
+
+
+## Integración publicitaria
+Código de AdSense instalado, mensaje europeo de Google publicado en español, con rechazo y gestión de opciones. Estado de aprobación publicitaria pendiente. Tras regenerar los archivos, ejecutar work/integrate_ads.py antes de desplegar para conservar esta integración y la privacidad actualizada.
